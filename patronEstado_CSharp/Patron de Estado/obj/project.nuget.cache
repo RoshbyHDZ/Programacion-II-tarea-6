@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFHBRq6m+Att5rPWChvoir8Q9yqtmPbuxoJfbI53nyrGkxByJazFq6ld2Sx899QQFzedADp5BSyzViM9e9b9eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rosh\\source\\repos\\Patron de Estado\\Patron de Estado\\Patron de Estado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
